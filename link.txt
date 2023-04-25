@@ -1,0 +1,8 @@
+Git repo url:
+https://github.com/joeben21/capstone.git
+
+Dockerhub repo url:
+
+https://hub.docker.com/repository/docker/joeben21/dev/general
+docker push joeben21/dev:v1
+docker push joeben21/prod:v1
